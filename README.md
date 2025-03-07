@@ -16,6 +16,8 @@
 
 *4. Test plan*: Là tài liệu mô tả kế hoạch kiểm thử cho dự án
 
+![image](https://github.com/user-attachments/assets/080c4154-2ed0-473f-aa06-c73b08d833be)
+
 *5. Bug report*: Báo cáo lỗi trong quá trình kiểm thử
 
 ![image](https://github.com/user-attachments/assets/9f7109c3-9361-47ea-a295-2bef39b5d182)
